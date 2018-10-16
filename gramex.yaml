@@ -16,10 +16,10 @@ url:
     pattern: /$YAMLURL/twitter/(.*)
     handler: TwitterRESTHandler
     kwargs:
-      key: Oe7i321RTxEXLCul5pI7dgU1Z
-      secret: ljijL1hzT413ajEynLycUV61IKin6xJUFRjwSN8je0H4SE23ja
-      access_key: 1044857878312615937-ml6FCW3kSo6EACek9yukVuui1D1kdJ
-      access_secret: cRr1jDr09O24gn7cdt2M2yi1yswoMyiaWdDnjlrSbUL9p
+      key: ...
+      secret: ...
+      access_key: ...
+      access_secret: ...
       transform:
         writetodisk:
           function: twitterbot.writedisk
